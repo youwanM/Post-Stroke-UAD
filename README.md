@@ -52,7 +52,7 @@ The script is configured to work with ATLAS and BraTS datasets.
         └── sub-r001s006-slice_086-T1.png
     ```
 
-* **Ground Truth Annotations:** For FROC metric calculations on point-based expert clicks, ensure that the file `merged_anoGT_Class1.csv` is located in your specified `--data-dir`.
+* **Ground Truth Annotations:** For FROC metric calculations on point-based expert clicks, ensure that the file `ClickLabels.csv` is located in your specified `--data-dir`.
 
 ## Model Configuration
 
