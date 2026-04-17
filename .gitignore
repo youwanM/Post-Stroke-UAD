@@ -1,0 +1,4 @@
+*.png
+Evaluations/
+__pycache__/
+venv/
